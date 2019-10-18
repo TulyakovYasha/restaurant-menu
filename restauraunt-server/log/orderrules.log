@@ -1,0 +1,182 @@
+ [2m2019-10-18 11:11:59.466[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mr.RestaurantMenuApplication             [0;39m [2m:[0;39m Starting RestaurantMenuApplication on yasha-Lenovo-ideapad-330-15IKB with PID 7538 (/home/yasha/probation.projects/rest/restauran/restauraunt-server/target/classes started by yasha in /home/yasha/probation.projects/rest/restauran/restauraunt-server)
+ [2m2019-10-18 11:11:59.482[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mr.RestaurantMenuApplication             [0;39m [2m:[0;39m No active profile set, falling back to default profiles: default
+ [2m2019-10-18 11:11:59.669[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mationConfigEmbeddedWebApplicationContext[0;39m [2m:[0;39m Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@2925bf5b: startup date [Fri Oct 18 11:11:59 EEST 2019]; root of context hierarchy
+ [2m2019-10-18 11:12:00.643[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36ms.b.c.e.t.TomcatEmbeddedServletContainer[0;39m [2m:[0;39m Tomcat initialized with port(s): 8080 (http)
+ [2m2019-10-18 11:12:00.649[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.a.c.c.StandardService                 [0;39m [2m:[0;39m Starting service [Tomcat]
+ [2m2019-10-18 11:12:00.650[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.a.c.c.StandardEngine                  [0;39m [2m:[0;39m Starting Servlet Engine: Apache Tomcat/8.5.23
+ [2m2019-10-18 11:12:00.697[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[ocalhost-startStop-1][0;39m [36mo.a.c.c.C.[.[.[/]                       [0;39m [2m:[0;39m Initializing Spring embedded WebApplicationContext
+ [2m2019-10-18 11:12:00.698[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[ocalhost-startStop-1][0;39m [36mo.s.w.c.ContextLoader                   [0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 1031 ms
+ [2m2019-10-18 11:12:00.770[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[ocalhost-startStop-1][0;39m [36mo.s.b.w.s.ServletRegistrationBean       [0;39m [2m:[0;39m Mapping servlet: 'dispatcherServlet' to [/]
+ [2m2019-10-18 11:12:00.773[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[ocalhost-startStop-1][0;39m [36mo.s.b.w.s.FilterRegistrationBean        [0;39m [2m:[0;39m Mapping filter: 'characterEncodingFilter' to: [/*]
+ [2m2019-10-18 11:12:00.774[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[ocalhost-startStop-1][0;39m [36mo.s.b.w.s.FilterRegistrationBean        [0;39m [2m:[0;39m Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+ [2m2019-10-18 11:12:00.774[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[ocalhost-startStop-1][0;39m [36mo.s.b.w.s.FilterRegistrationBean        [0;39m [2m:[0;39m Mapping filter: 'httpPutFormContentFilter' to: [/*]
+ [2m2019-10-18 11:12:00.774[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[ocalhost-startStop-1][0;39m [36mo.s.b.w.s.FilterRegistrationBean        [0;39m [2m:[0;39m Mapping filter: 'requestContextFilter' to: [/*]
+ [2m2019-10-18 11:12:01.027[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mj.LocalContainerEntityManagerFactoryBean[0;39m [2m:[0;39m Building JPA container EntityManagerFactory for persistence unit 'default'
+ [2m2019-10-18 11:12:01.036[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.h.j.i.u.LogHelper                     [0;39m [2m:[0;39m HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+ [2m2019-10-18 11:12:01.082[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.h.Version                             [0;39m [2m:[0;39m HHH000412: Hibernate Core {5.0.12.Final}
+ [2m2019-10-18 11:12:01.083[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.h.c.Environment                       [0;39m [2m:[0;39m HHH000206: hibernate.properties not found
+ [2m2019-10-18 11:12:01.084[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.h.c.Environment                       [0;39m [2m:[0;39m HHH000021: Bytecode provider name : javassist
+ [2m2019-10-18 11:12:01.115[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.h.a.c.Version                         [0;39m [2m:[0;39m HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+ [2m2019-10-18 11:12:01.242[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.h.d.Dialect                           [0;39m [2m:[0;39m HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+ [2m2019-10-18 11:12:01.475[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.h.t.h.SchemaExport                    [0;39m [2m:[0;39m HHH000227: Running hbm2ddl schema export
+ [2m2019-10-18 11:12:01.483[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.h.t.h.SchemaExport                    [0;39m [2m:[0;39m HHH000230: Schema export complete
+ [2m2019-10-18 11:12:01.497[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mj.LocalContainerEntityManagerFactoryBean[0;39m [2m:[0;39m Initialized JPA EntityManagerFactory for persistence unit 'default'
+ [2m2019-10-18 11:12:01.798[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36ms.w.s.m.m.a.RequestMappingHandlerAdapter[0;39m [2m:[0;39m Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@2925bf5b: startup date [Fri Oct 18 11:11:59 EEST 2019]; root of context hierarchy
+ [2m2019-10-18 11:12:01.844[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36ms.w.s.m.m.a.RequestMappingHandlerMapping[0;39m [2m:[0;39m Mapped "{[/meal/get],methods=[GET],produces=[application/json;charset=UTF-8]}" onto public api.dto.MealDTO restaurant.endpoit.rest.MealRestController.get(java.lang.String) throws javassist.NotFoundException
+ [2m2019-10-18 11:12:01.845[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36ms.w.s.m.m.a.RequestMappingHandlerMapping[0;39m [2m:[0;39m Mapped "{[/meal/update],methods=[PUT],consumes=[application/json;charset=UTF-8],produces=[application/json;charset=UTF-8]}" onto public api.dto.MealDTO restaurant.endpoit.rest.MealRestController.update(api.dto.MealDTO) throws javassist.NotFoundException
+ [2m2019-10-18 11:12:01.846[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36ms.w.s.m.m.a.RequestMappingHandlerMapping[0;39m [2m:[0;39m Mapped "{[/meal/delete/{uuid}],methods=[DELETE]}" onto public boolean restaurant.endpoit.rest.MealRestController.delete(java.lang.String) throws javassist.NotFoundException
+ [2m2019-10-18 11:12:01.846[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36ms.w.s.m.m.a.RequestMappingHandlerMapping[0;39m [2m:[0;39m Mapped "{[/meal/save],methods=[POST],consumes=[application/json;charset=UTF-8],produces=[application/json;charset=UTF-8]}" onto public api.dto.MealDTO restaurant.endpoit.rest.MealRestController.save(api.dto.MealDTO)
+ [2m2019-10-18 11:12:01.849[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36ms.w.s.m.m.a.RequestMappingHandlerMapping[0;39m [2m:[0;39m Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+ [2m2019-10-18 11:12:01.849[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36ms.w.s.m.m.a.RequestMappingHandlerMapping[0;39m [2m:[0;39m Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+ [2m2019-10-18 11:12:01.873[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.s.w.s.h.SimpleUrlHandlerMapping       [0;39m [2m:[0;39m Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ [2m2019-10-18 11:12:01.873[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.s.w.s.h.SimpleUrlHandlerMapping       [0;39m [2m:[0;39m Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ [2m2019-10-18 11:12:01.897[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.s.w.s.h.SimpleUrlHandlerMapping       [0;39m [2m:[0;39m Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ [2m2019-10-18 11:12:01.918[0;39m [33m WARN[0;39m [35m7538[0;39m [33m---[0;39m [2m[                main][0;39m [36m.t.AbstractTemplateResolverConfiguration[0;39m [2m:[0;39m Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+ [2m2019-10-18 11:12:02.209[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.s.j.e.a.AnnotationMBeanExporter       [0;39m [2m:[0;39m Registering beans for JMX exposure on startup
+ [2m2019-10-18 11:12:02.220[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.a.c.h.Http11NioProtocol               [0;39m [2m:[0;39m Initializing ProtocolHandler ["http-nio-8080"]
+ [2m2019-10-18 11:12:02.225[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.a.c.h.Http11NioProtocol               [0;39m [2m:[0;39m Starting ProtocolHandler ["http-nio-8080"]
+ [2m2019-10-18 11:12:02.228[0;39m [31mERROR[0;39m [35m7538[0;39m [31m---[0;39m [2m[                main][0;39m [36mo.a.c.h.Http11NioProtocol               [0;39m [2m:[0;39m Failed to start end point associated with ProtocolHandler ["http-nio-8080"]
+
+java.net.BindException: Адрес уже используется
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:433)
+	at sun.nio.ch.Net.bind(Net.java:425)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:990)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:635)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1022)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225)
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.addPreviouslyRemovedConnectors(TomcatEmbeddedServletContainer.java:250)
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.start(TomcatEmbeddedServletContainer.java:193)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.startEmbeddedServletContainer(EmbeddedWebApplicationContext.java:297)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.finishRefresh(EmbeddedWebApplicationContext.java:145)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1118)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1107)
+	at restaurant.RestaurantMenuApplication.main(RestaurantMenuApplication.java:10)
+
+ [2m2019-10-18 11:12:02.229[0;39m [31mERROR[0;39m [35m7538[0;39m [31m---[0;39m [2m[                main][0;39m [36mo.a.c.c.StandardService                 [0;39m [2m:[0;39m Failed to start connector [Connector[HTTP/1.1-8080]]
+
+org.apache.catalina.LifecycleException: Failed to start component [Connector[HTTP/1.1-8080]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225)
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.addPreviouslyRemovedConnectors(TomcatEmbeddedServletContainer.java:250)
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.start(TomcatEmbeddedServletContainer.java:193)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.startEmbeddedServletContainer(EmbeddedWebApplicationContext.java:297)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.finishRefresh(EmbeddedWebApplicationContext.java:145)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1118)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1107)
+	at restaurant.RestaurantMenuApplication.main(RestaurantMenuApplication.java:10)
+Caused by: org.apache.catalina.LifecycleException: service.getName(): "Tomcat";  Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1031)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 13 more
+Caused by: java.net.BindException: Адрес уже используется
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:433)
+	at sun.nio.ch.Net.bind(Net.java:425)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:990)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:635)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1022)
+	... 14 more
+
+ [2m2019-10-18 11:12:02.235[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.a.c.h.Http11NioProtocol               [0;39m [2m:[0;39m Pausing ProtocolHandler ["http-nio-8080"]
+ [2m2019-10-18 11:12:02.235[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.a.c.c.StandardService                 [0;39m [2m:[0;39m Stopping service [Tomcat]
+ [2m2019-10-18 11:12:02.239[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.a.c.u.LifecycleBase                   [0;39m [2m:[0;39m The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+ [2m2019-10-18 11:12:02.240[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.a.c.h.Http11NioProtocol               [0;39m [2m:[0;39m Stopping ProtocolHandler ["http-nio-8080"]
+ [2m2019-10-18 11:12:02.240[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.a.c.h.Http11NioProtocol               [0;39m [2m:[0;39m Destroying ProtocolHandler ["http-nio-8080"]
+ [2m2019-10-18 11:12:02.242[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mutoConfigurationReportLoggingInitializer[0;39m [2m:[0;39m 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+ [2m2019-10-18 11:12:02.244[0;39m [31mERROR[0;39m [35m7538[0;39m [31m---[0;39m [2m[                main][0;39m [36mo.s.b.d.LoggingFailureAnalysisReporter  [0;39m [2m:[0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 8080 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 8080, or configure this application to listen on another port.
+
+ [2m2019-10-18 11:12:02.245[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mationConfigEmbeddedWebApplicationContext[0;39m [2m:[0;39m Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@2925bf5b: startup date [Fri Oct 18 11:11:59 EEST 2019]; root of context hierarchy
+ [2m2019-10-18 11:12:02.246[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.s.j.e.a.AnnotationMBeanExporter       [0;39m [2m:[0;39m Unregistering JMX-exposed beans on shutdown
+ [2m2019-10-18 11:12:02.247[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mj.LocalContainerEntityManagerFactoryBean[0;39m [2m:[0;39m Closing JPA EntityManagerFactory for persistence unit 'default'
+ [2m2019-10-18 11:12:02.247[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.h.t.h.SchemaExport                    [0;39m [2m:[0;39m HHH000227: Running hbm2ddl schema export
+ [2m2019-10-18 11:12:02.249[0;39m [32m INFO[0;39m [35m7538[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.h.t.h.SchemaExport                    [0;39m [2m:[0;39m HHH000230: Schema export complete
+ [2m2019-10-18 11:14:45.060[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36mr.RestaurantMenuApplication             [0;39m [2m:[0;39m Starting RestaurantMenuApplication on yasha-Lenovo-ideapad-330-15IKB with PID 3036 (/home/yasha/probation.projects/rest/restauran/restauraunt-server/target/classes started by yasha in /home/yasha/probation.projects/rest/restauran/restauraunt-server)
+ [2m2019-10-18 11:14:45.063[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36mr.RestaurantMenuApplication             [0;39m [2m:[0;39m No active profile set, falling back to default profiles: default
+ [2m2019-10-18 11:14:45.200[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36mationConfigEmbeddedWebApplicationContext[0;39m [2m:[0;39m Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@2925bf5b: startup date [Fri Oct 18 11:14:45 EEST 2019]; root of context hierarchy
+ [2m2019-10-18 11:14:46.139[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36ms.b.c.e.t.TomcatEmbeddedServletContainer[0;39m [2m:[0;39m Tomcat initialized with port(s): 8080 (http)
+ [2m2019-10-18 11:14:46.146[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.a.c.c.StandardService                 [0;39m [2m:[0;39m Starting service [Tomcat]
+ [2m2019-10-18 11:14:46.146[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.a.c.c.StandardEngine                  [0;39m [2m:[0;39m Starting Servlet Engine: Apache Tomcat/8.5.23
+ [2m2019-10-18 11:14:46.192[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[ocalhost-startStop-1][0;39m [36mo.a.c.c.C.[.[.[/]                       [0;39m [2m:[0;39m Initializing Spring embedded WebApplicationContext
+ [2m2019-10-18 11:14:46.193[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[ocalhost-startStop-1][0;39m [36mo.s.w.c.ContextLoader                   [0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 996 ms
+ [2m2019-10-18 11:14:46.261[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[ocalhost-startStop-1][0;39m [36mo.s.b.w.s.ServletRegistrationBean       [0;39m [2m:[0;39m Mapping servlet: 'dispatcherServlet' to [/]
+ [2m2019-10-18 11:14:46.263[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[ocalhost-startStop-1][0;39m [36mo.s.b.w.s.FilterRegistrationBean        [0;39m [2m:[0;39m Mapping filter: 'characterEncodingFilter' to: [/*]
+ [2m2019-10-18 11:14:46.264[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[ocalhost-startStop-1][0;39m [36mo.s.b.w.s.FilterRegistrationBean        [0;39m [2m:[0;39m Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+ [2m2019-10-18 11:14:46.264[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[ocalhost-startStop-1][0;39m [36mo.s.b.w.s.FilterRegistrationBean        [0;39m [2m:[0;39m Mapping filter: 'httpPutFormContentFilter' to: [/*]
+ [2m2019-10-18 11:14:46.264[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[ocalhost-startStop-1][0;39m [36mo.s.b.w.s.FilterRegistrationBean        [0;39m [2m:[0;39m Mapping filter: 'requestContextFilter' to: [/*]
+ [2m2019-10-18 11:14:46.541[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36mj.LocalContainerEntityManagerFactoryBean[0;39m [2m:[0;39m Building JPA container EntityManagerFactory for persistence unit 'default'
+ [2m2019-10-18 11:14:46.551[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.h.j.i.u.LogHelper                     [0;39m [2m:[0;39m HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+ [2m2019-10-18 11:14:46.600[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.h.Version                             [0;39m [2m:[0;39m HHH000412: Hibernate Core {5.0.12.Final}
+ [2m2019-10-18 11:14:46.601[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.h.c.Environment                       [0;39m [2m:[0;39m HHH000206: hibernate.properties not found
+ [2m2019-10-18 11:14:46.602[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.h.c.Environment                       [0;39m [2m:[0;39m HHH000021: Bytecode provider name : javassist
+ [2m2019-10-18 11:14:46.631[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.h.a.c.Version                         [0;39m [2m:[0;39m HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+ [2m2019-10-18 11:14:46.751[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.h.d.Dialect                           [0;39m [2m:[0;39m HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+ [2m2019-10-18 11:14:46.982[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.h.t.h.SchemaExport                    [0;39m [2m:[0;39m HHH000227: Running hbm2ddl schema export
+ [2m2019-10-18 11:14:46.990[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.h.t.h.SchemaExport                    [0;39m [2m:[0;39m HHH000230: Schema export complete
+ [2m2019-10-18 11:14:47.004[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36mj.LocalContainerEntityManagerFactoryBean[0;39m [2m:[0;39m Initialized JPA EntityManagerFactory for persistence unit 'default'
+ [2m2019-10-18 11:14:47.306[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36ms.w.s.m.m.a.RequestMappingHandlerAdapter[0;39m [2m:[0;39m Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@2925bf5b: startup date [Fri Oct 18 11:14:45 EEST 2019]; root of context hierarchy
+ [2m2019-10-18 11:14:47.356[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36ms.w.s.m.m.a.RequestMappingHandlerMapping[0;39m [2m:[0;39m Mapped "{[/meal/get],methods=[GET],produces=[application/json;charset=UTF-8]}" onto public api.dto.MealDTO restaurant.endpoit.rest.MealRestController.get(java.lang.String) throws javassist.NotFoundException
+ [2m2019-10-18 11:14:47.357[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36ms.w.s.m.m.a.RequestMappingHandlerMapping[0;39m [2m:[0;39m Mapped "{[/meal/update],methods=[PUT],consumes=[application/json;charset=UTF-8],produces=[application/json;charset=UTF-8]}" onto public api.dto.MealDTO restaurant.endpoit.rest.MealRestController.update(api.dto.MealDTO) throws javassist.NotFoundException
+ [2m2019-10-18 11:14:47.357[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36ms.w.s.m.m.a.RequestMappingHandlerMapping[0;39m [2m:[0;39m Mapped "{[/meal/delete/{uuid}],methods=[DELETE]}" onto public boolean restaurant.endpoit.rest.MealRestController.delete(java.lang.String) throws javassist.NotFoundException
+ [2m2019-10-18 11:14:47.358[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36ms.w.s.m.m.a.RequestMappingHandlerMapping[0;39m [2m:[0;39m Mapped "{[/meal/save],methods=[POST],consumes=[application/json;charset=UTF-8],produces=[application/json;charset=UTF-8]}" onto public api.dto.MealDTO restaurant.endpoit.rest.MealRestController.save(api.dto.MealDTO)
+ [2m2019-10-18 11:14:47.359[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36ms.w.s.m.m.a.RequestMappingHandlerMapping[0;39m [2m:[0;39m Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+ [2m2019-10-18 11:14:47.360[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36ms.w.s.m.m.a.RequestMappingHandlerMapping[0;39m [2m:[0;39m Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+ [2m2019-10-18 11:14:47.379[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.s.w.s.h.SimpleUrlHandlerMapping       [0;39m [2m:[0;39m Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ [2m2019-10-18 11:14:47.379[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.s.w.s.h.SimpleUrlHandlerMapping       [0;39m [2m:[0;39m Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ [2m2019-10-18 11:14:47.402[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.s.w.s.h.SimpleUrlHandlerMapping       [0;39m [2m:[0;39m Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ [2m2019-10-18 11:14:47.421[0;39m [33m WARN[0;39m [35m3036[0;39m [33m---[0;39m [2m[                main][0;39m [36m.t.AbstractTemplateResolverConfiguration[0;39m [2m:[0;39m Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+ [2m2019-10-18 11:14:47.705[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.s.j.e.a.AnnotationMBeanExporter       [0;39m [2m:[0;39m Registering beans for JMX exposure on startup
+ [2m2019-10-18 11:14:47.716[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.a.c.h.Http11NioProtocol               [0;39m [2m:[0;39m Initializing ProtocolHandler ["http-nio-8080"]
+ [2m2019-10-18 11:14:47.721[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.a.c.h.Http11NioProtocol               [0;39m [2m:[0;39m Starting ProtocolHandler ["http-nio-8080"]
+ [2m2019-10-18 11:14:47.725[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36mo.a.t.u.n.NioSelectorPool               [0;39m [2m:[0;39m Using a shared selector for servlet write/read
+ [2m2019-10-18 11:14:47.736[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36ms.b.c.e.t.TomcatEmbeddedServletContainer[0;39m [2m:[0;39m Tomcat started on port(s): 8080 (http)
+ [2m2019-10-18 11:14:47.740[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[                main][0;39m [36mr.RestaurantMenuApplication             [0;39m [2m:[0;39m Started RestaurantMenuApplication in 2.845 seconds (JVM running for 3.451)
+ [2m2019-10-18 11:15:07.762[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[http-nio-8080-exec-1][0;39m [36mo.a.c.c.C.[.[.[/]                       [0;39m [2m:[0;39m Initializing Spring FrameworkServlet 'dispatcherServlet'
+ [2m2019-10-18 11:15:07.763[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[http-nio-8080-exec-1][0;39m [36mo.s.w.s.DispatcherServlet               [0;39m [2m:[0;39m FrameworkServlet 'dispatcherServlet': initialization started
+ [2m2019-10-18 11:15:07.771[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[http-nio-8080-exec-1][0;39m [36mo.s.w.s.DispatcherServlet               [0;39m [2m:[0;39m FrameworkServlet 'dispatcherServlet': initialization completed in 8 ms
+ [2m2019-10-18 11:15:07.871[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[http-nio-8080-exec-1][0;39m [36mo.h.h.i.QueryTranslatorFactoryInitiator [0;39m [2m:[0;39m HHH000397: Using ASTQueryTranslatorFactory
+ [2m2019-10-18 11:15:07.949[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[http-nio-8080-exec-1][0;39m [36mr.e.r.MealRestController                [0;39m [2m:[0;39m Created meal : MealDTO{uuid='fad59b6d-23df-4bba-a2ca-fadb09f545c2', name='testName', calories=123, weight=12, price=190}
+ [2m2019-10-18 11:15:16.840[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[http-nio-8080-exec-3][0;39m [36mr.e.r.MealRestController                [0;39m [2m:[0;39m get meal : MealDTO{uuid='fad59b6d-23df-4bba-a2ca-fadb09f545c2', name='testName', calories=123, weight=12, price=190}
+ [2m2019-10-18 11:15:24.339[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[http-nio-8080-exec-5][0;39m [36mr.e.r.MealRestController                [0;39m [2m:[0;39m Updated Meal : MealDTO{uuid='fad59b6d-23df-4bba-a2ca-fadb09f545c2', name='updatedTestName', calories=150, weight=122, price=500}
+ [2m2019-10-18 11:15:29.610[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[http-nio-8080-exec-7][0;39m [36mr.e.r.MealRestController                [0;39m [2m:[0;39m delete meal
+ [2m2019-10-18 11:15:45.834[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[ttp-nio-8080-exec-10][0;39m [36mr.e.r.MealRestController                [0;39m [2m:[0;39m Created meal : MealDTO{uuid='14337841-b710-4cbe-bbd4-3a8eb81391cf', name='testMealName', calories=12, weight=13, price=12}
+ [2m2019-10-18 11:15:45.861[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[http-nio-8080-exec-1][0;39m [36mr.e.r.MealRestController                [0;39m [2m:[0;39m get meal : MealDTO{uuid='14337841-b710-4cbe-bbd4-3a8eb81391cf', name='testMealName', calories=12, weight=13, price=12}
+ [2m2019-10-18 11:15:45.895[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[http-nio-8080-exec-2][0;39m [36mr.e.r.MealRestController                [0;39m [2m:[0;39m Updated Meal : MealDTO{uuid='14337841-b710-4cbe-bbd4-3a8eb81391cf', name='updatedTestMealName', calories=21, weight=23, price=123}
+ [2m2019-10-18 11:15:45.905[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[http-nio-8080-exec-3][0;39m [36mr.e.r.MealRestController                [0;39m [2m:[0;39m get meal : MealDTO{uuid='14337841-b710-4cbe-bbd4-3a8eb81391cf', name='updatedTestMealName', calories=21, weight=23, price=123}
+ [2m2019-10-18 11:15:45.913[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[http-nio-8080-exec-4][0;39m [36mr.e.r.MealRestController                [0;39m [2m:[0;39m delete meal
+ [2m2019-10-18 11:15:55.290[0;39m [32m INFO[0;39m [35m3036[0;39m [32m---[0;39m [2m[            Thread-9][0;39m [36mationConfigEmbeddedWebApplicationContext[0;39m [2m:[0;39m Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@2925bf5b: startup date [Fri Oct 18 11:14:45 EEST 2019]; root of context hierarchy

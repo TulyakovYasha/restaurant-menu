@@ -1,0 +1,22 @@
+spring:
+  main:
+    banner-mode: 'OFF'
+  application:
+    name: meals-application
+  datasource:
+    url: jdbc:h2:mem:meals
+    username: sa
+    password:
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+  h2:
+    console:
+      enabled: true
+
+server:
+  port: 8080
+logging:
+  config: config/log4j2.xml

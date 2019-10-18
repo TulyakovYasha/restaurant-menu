@@ -1,0 +1,4 @@
+# Project exclude paths
+/restauraunt-server/target/
+/restoraunt-api/target/
+/target/
